@@ -3,7 +3,7 @@
 saldoInicial = 50
 custoRefrigerante = 8
 custoPao = 4
-custoMortadela = 39.99
+custoMortadela = 39.90
 valorCompra = (custoRefrigerante * 2) + custoPao + ((custoMortadela / 1000) * 300)
 
 saldoFinal = saldoInicial - valorCompra
